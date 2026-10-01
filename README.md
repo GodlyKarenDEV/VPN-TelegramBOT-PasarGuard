@@ -55,7 +55,7 @@
 ترمینال سرور را باز کرده و دستورات زیر را برای دریافت سورس‌کد اجرا کنید:
 
 ```bash
-git clone [https://github.com/RezaRasti79/VPN-TelegramBOT-PasarGuard.git](https://github.com/RezaRasti79/VPN-TelegramBOT-PasarGuard.git)
+git clone [https://github.com/GodlyKarenDEV/VPN-TelegramBOT-PasarGuard.git](https://github.com/GodlyKarenDEV/VPN-TelegramBOT-PasarGuard.git)
 cd VPN-TelegramBOT-PasarGuard
 ```
 
