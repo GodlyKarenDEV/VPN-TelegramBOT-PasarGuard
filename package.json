@@ -1,17 +1,14 @@
 {
   "name": "vpn-telegram-bot",
-  "version": "2.0.1",
-  "description": "Smart Telegram Bot connected to Pasargad Panel with MySQL",
+  "version": "1.0.0",
   "main": "Bot.js",
   "scripts": {
     "start": "node Bot.js"
   },
   "dependencies": {
-    "axios": "^1.7.2",
-    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.65.0",
     "mysql2": "^3.9.0",
-    "node-telegram-bot-api": "^0.65.0"
-  },
-  "author": "Reza Rasti",
-  "license": "MIT"
+    "dotenv": "^16.4.5",
+    "axios": "^1.7.2"
+  }
 }
